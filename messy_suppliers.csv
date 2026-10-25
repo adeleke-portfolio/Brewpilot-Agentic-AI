@@ -1,0 +1,8 @@
+supplier_id,Supplier Name,country,lead_time_days,reliability_score,last_delivery_date
+S001,Acme Coffee Co.,Ethiopia,14,0.85,2025-03-15
+S002,Acme Coffee Company,ETH,14,,15/03/2025
+S003,Highland Beans Inc,ethiopia,30,0.72,"March 15, 2025"
+S004,Andes Traders,Colombia,21,0.91,2025-03-10
+S005,andes traders,COL,-5,0.91,10/03/2025
+S006,Sumatra Direct,Indonesia,,0.68,2025-02-28
+S007,Sumatra Direct,Indonesia,45,0.68,2025-02-28
